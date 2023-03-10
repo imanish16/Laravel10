@@ -51,7 +51,6 @@
         <!-- Custom js for this page-->
         <script src="vendors/js/vendor.bundle.base.js"></script>
         <script src="vendors/chart.js/Chart.min.js"></script>
-        @scripts('scripts')
 </body>
 
 </html>

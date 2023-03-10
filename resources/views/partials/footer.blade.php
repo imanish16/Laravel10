@@ -7,3 +7,5 @@
                 class="ti-heart text-danger ml-1"></i></span>
     </div>
 </footer>
+</div>
+</div>
